@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity: 👂 heard
 - Web development
   - ASP.NET Core
   - Blazor

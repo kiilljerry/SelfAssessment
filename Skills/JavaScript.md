@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`u
-  - `Function`u
-  - `Boolean`u
-  - `Number`u
-  - `BigInt`u
-  - `String`u
-  - `Symbol`u
-  - `Infinity`u
-  - `NaN`u
-  - `undefined`u
-  - `null`u
-  - `this`k
-  - `instanceof`k
-  - `...spread`k
-  - `...rest`k
-  - `typeof`u
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
+  - `BigInt` u
+  - `String` u
+  - `Symbol` u
+  - `Infinity` u
+  - `NaN` u
+  - `undefined` u
+  - `null` u
+  - `this` k
+  - `instanceof` k
+  - `...spread` k
+  - `...rest` k
+  - `typeof` u
   - Destructuring k
   - Generators h
   - Iterators h
@@ -63,16 +63,16 @@
   - `while` u
   - `do..while` u
   - `for` u
-  - `for..in`u
-  - `for..of`u
-  - `for await`h
-  - `throw`k
-  - `break`u
-  - `continue`h
-  - `import`h
-  - `export`h
+  - `for..in` u
+  - `for..of` u
+  - `for await` h
+  - `throw` k
+  - `break` u
+  - `continue` h
+  - `import` h
+  - `export` h
   - `label`
-  - `try..catch`h
+  - `try..catch` h
   - `switch` u
   - `class` h
   - `extends`
@@ -85,14 +85,14 @@
   - Function expression u
   - Default parameters u
   - Functional object h
-  - `Function.prototype.call`h
-  - `Function.prototype.bind`h
-  - `Function.prototype.apply`h
-  - `return`u
+  - `Function.prototype.call` h
+  - `Function.prototype.bind` h
+  - `Function.prototype.apply` h
+  - `return` u
 - Data structures
   - `Array` u
-  - `Map`k
-  - `Set`k
+  - `Map` k
+  - `Set` k
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -101,17 +101,17 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`u
-  - `Math`u
+  - `Date` u
+  - `Math` u
   - `Reflect`
-  - `Error`k
+  - `Error` k
   - `Atomics`
   - `JSON` k
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`h
-  - `console`u
+  - `Promise` h
+  - `console` u
   - Timers u
 - Infrastructure
   - V8 h

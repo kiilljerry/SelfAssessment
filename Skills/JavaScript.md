@@ -5,21 +5,21 @@
   - `Function`u
   - `Boolean`u
   - `Number`u
-  - `BigInt`
+  - `BigInt`u
   - `String`u
   - `Symbol`u
   - `Infinity`u
   - `NaN`u
   - `undefined`u
   - `null`u
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
+  - `this`k
+  - `instanceof`k
+  - `...spread`k
+  - `...rest`k
+  - `typeof`u
+  - Destructuring: 🎓 known
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
   - Chaining
@@ -32,24 +32,24 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators u
-  - Logical operators u
-  - Logical Assignment u
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 👂 heard
+  - `void`: 👂 heard
+  - `yield`: 👂 heard
   - `await`
   - Template literal
   - Strict mode
   - Hoisting
-  - `delete`
+  - `delete`: 🖐️ used
   - `in`
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,40 +59,40 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`u
+  - `for..of`u
+  - `for await`h
+  - `throw`k
+  - `break`u
+  - `continue`h
+  - `import`h
+  - `export`h
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
+  - `try..catch`h
+  - `switch`: 🖐️ used
+  - `class`: 👂 heard
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function u
-  - Async function
-  - Function declaration u
-  - Function expression u
-  - Default parameters u
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object: 👂 heard
+  - `Function.prototype.call`h
+  - `Function.prototype.bind`h
+  - `Function.prototype.apply`h
+  - `return`u
 - Data structures
-  - `Array`h
-  - `Map`
-  - `Set`
+  - `Array`: 🖐️ used
+  - `Map`k
+  - `Set`k
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -101,22 +101,22 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date`u
+  - `Math`u
   - `Reflect`
-  - `Error`
+  - `Error`k
   - `Atomics`
-  - `JSON`
+  - `JSON`: 🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise`h
   - `console`u
-  - Timers
+  - Timers: 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js u
-  - npm
-  - prettier
-  - MDN
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39

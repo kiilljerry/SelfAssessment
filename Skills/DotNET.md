@@ -37,7 +37,7 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support h
+  - HTTP/HTTPS support: 👂 heard
   - WebSockets for real-time communication
   - TCP/UDP networking
   - SSL/TLS for secure connections

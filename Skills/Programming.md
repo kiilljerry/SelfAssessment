@@ -1,73 +1,73 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model: 👂 heard
+  - Modeling: 👂 heard
   - Subject domain
-  - Algorithm
-  - Syntax u
-  - Semantics
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🎓 known
   - Abstraction
-  - Paradigm
-  - Programm k
+  - Paradigm: 👂 heard
+  - Programm: 🎓 known
   - Programming paradigm
-  - Programming language u
+  - Programming language: 🖐️ used
   - Contract
-  - Module
-  - Library
+  - Module: 👂 heard
+  - Library: 👂 heard
   - Package
-  - Component
-  - Framework
-  - Platform h
-  - Source code
-  - Object code
-  - Machine code
+  - Component: 👂 heard
+  - Framework: 👂 heard
+  - Platform: 👂 heard
+  - Source code: 🖐️ used
+  - Object code: 🖐️ used
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering h
-  - Decomposition
+  - Software engineering: 🎓 known
+  - Decomposition: 👂 heard
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse: 👂 heard
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): 👂 heard
+  - KISS principle: 🎓 known
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable u
-  - Constant u
-  - Scalar
-  - Literal
-  - Expression k
-  - Heap
-  - Function u
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions u
-  - Loops u
-  - Assignment u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🎓 known
+  - Literal: 🎓 known
+  - Expression: 🎓 known
+  - Heap: 👂 heard
+  - Function: 🖐️ used
+  - Procedure: 🖐️ used
+  - Method: 🖐️ used
+  - Class: 👂 heard
+  - Prototype: 👂 heard
+  - Event: 👂 heard
+  - Type: 🖐️ used
+  - Flag: 🖐️ used
+  - Lexical scope: 👂 heard
+  - Code block: 🎓 known
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
-  - Interface h
-  - Namespaces
-  - Call stack
+  - Interface: 👂 heard
+  - Namespaces: 👂 heard
+  - Call stack: 👂 heard
   - Naming conventions
   - Coding conventions
-  - Camel case u
-  - Snake case
-  - Kebab case
-  - Trailing commas
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
+  - Trailing commas: 🖐️ used
   - Return early
   - Fail-fast
 - Types
-  - Primitive types u
-  - Reference types
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature u
-  - Argument u
-  - Parameter u
-  - Pure function
-  - Lambda expression u
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🎓 known
+  - Lambda expression: 🖐️ used
   - Side effects
-  - Closure h
+  - Closure: 👂 heard
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback: 👂 heard
   - Listener
   - Composition
   - Pipe
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
@@ -128,24 +128,24 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON k
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
-  - DNS h
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4 h
-  - IPv6 h
+  - IPv4: 👂 heard
+  - IPv6: 👂 heard
   - NAT
-  - URL u
+  - URL: 🖐️ used
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
+  - Transpiler: 👂 heard
   - Linter
   - Polyfill
   - Interpreter
@@ -153,47 +153,47 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine h
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger h
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring: 🖐️ used
+  - Code review: 🎓 known
   - Exception
   - Unittesting
-  - git h
-  - Github h
-  - Docker
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 👂 heard
   - Kubernetes
-  - GCC
+  - GCC: 🖐️ used
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
-  - Action at a distance
-  - Spaghetti
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
+  - Soft code: 🎓 known
+  - Cryptic code: 🎓 known
+  - Improbability factor: 🖐️ used
+  - Accidental complexity: 🖐️ used
+  - Action at a distance: 🖐️ used
+  - Spaghetti: 🖐️ used
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code
+  - Unreachable code: 👂 heard
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops: 🖐️ used
+  - Long method/function/procedure: 🖐️ used
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -213,16 +213,16 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system u
-  - Linux k
-  - Unix u
+  - File system: 🖐️ used
+  - Linux: 🎓 known
+  - Unix: 🖐️ used
   - BSD
-  - MacOS u
-  - Windows u
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII h
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG

@@ -1,73 +1,73 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model h
+  - Modeling h
   - Subject domain
-  - Algorithm
+  - Algorithm u
   - Syntax u
-  - Semantics
+  - Semantics k
   - Abstraction
-  - Paradigm
+  - Paradigm h
   - Programm k
   - Programming paradigm
   - Programming language u
   - Contract
-  - Module
-  - Library
+  - Module h
+  - Library h
   - Package
-  - Component
-  - Framework
+  - Component h
+  - Framework h
   - Platform h
-  - Source code
-  - Object code
-  - Machine code
+  - Source code u
+  - Object code u
+  - Machine code h
   - Microcode
-  - Software engineering h
-  - Decomposition
+  - Software engineering k
+  - Decomposition h
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse h
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) h
+  - KISS principle k
 - Syntax and concepts
-  - Value
-  - Identifier
+  - Value u
+  - Identifier u
   - Variable u
   - Constant u
-  - Scalar
-  - Literal
+  - Scalar k
+  - Literal k
   - Expression k
-  - Heap
+  - Heap h
   - Function u
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
+  - Procedure u
+  - Method u
+  - Class h
+  - Prototype h
+  - Event h
+  - Type u
+  - Flag u
+  - Lexical scope h
+  - Code block k
   - Conditions u
   - Loops u
   - Assignment u
   - Regular expression
   - Interface h
-  - Namespaces
-  - Call stack
+  - Namespaces h
+  - Call stack h
   - Naming conventions
   - Coding conventions
   - Camel case u
-  - Snake case
-  - Kebab case
-  - Trailing commas
+  - Snake case u
+  - Kebab case u
+  - Trailing commas u
   - Return early
   - Fail-fast
 - Types
   - Primitive types u
-  - Reference types
+  - Reference types u
   - Type systems
   - Strong typing
   - Weak typing
@@ -84,7 +84,7 @@
   - Signature u
   - Argument u
   - Parameter u
-  - Pure function
+  - Pure function k
   - Lambda expression u
   - Side effects
   - Closure h
@@ -93,7 +93,7 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback h
   - Listener
   - Composition
   - Pipe
@@ -142,10 +142,10 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
+  - Transpiler h
   - Linter
   - Polyfill
   - Interpreter
@@ -157,43 +157,43 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger h
+  - Debugger u
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring u
+  - Code review k
   - Exception
   - Unittesting
-  - git h
-  - Github h
-  - Docker
+  - git u
+  - Github u
+  - Docker h
   - Kubernetes
-  - GCC
+  - GCC u
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
-  - Action at a distance
-  - Spaghetti
+  - Magic numbers k
+  - Hard code k
+  - Soft code k
+  - Cryptic code k
+  - Improbability factor u
+  - Accidental complexity u
+  - Action at a distance u
+  - Spaghetti u
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code
+  - Unreachable code h
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops u
+  - Long method/function/procedure u
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters k
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case u
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 u
   - W3C
   - ODMG

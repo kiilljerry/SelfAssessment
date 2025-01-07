@@ -1,89 +1,100 @@
-## Asynchronous programming
+# Architecture
 
-- Theory
-  - Event loop h
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
-- Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
-- Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - Callbacks compose
-  - Async compose
-- Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
-- JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - Atomics
-  - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON streaming serialization
-  - AsyncLocalStorage
-  - AsyncResource
-- Techniques
-  - Async.js library
-  - RxJS library
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
-  - Web Locks API
-  - IPC
-  - Channel API
-  - Revealing constructor
+- Application structure
+  - Modularity k
+  - Components
+  - Directories k
+  - GRASP h
+  - SOLID
+  - GoF patterns
+  - CQS
+  - Leaking abstractions
+  - Multiparadigm code
+  - Contract programming
+  - Platform-agnostic
+  - Transport-agnostic
+  - Framework-agnostic
+  - Code coverage
+  - Cohesion
+  - Coupling
+  - Cyclomatic complexity
+  - Reliability u
+  - Quality u
+  - Availability
+  - Flexibility
+  - Law of Demeter (LoD)
+- Application architecture
+  - Isolation between layer
+  - Domain-specific language (DSL)
+  - System vs applied code
+  - Multilayer approach
+  - Hexagonal architecture
+  - Separation of concerns (SoC)
+  - Metaprogramming
+  - Inversion of control (IoC)
+  - Dependency injection (DI)
+  - Clean architecture
+  - Domain-driven design (DDD)
+  - Pub/sub
+  - Message brocker
+  - Agent
+  - Service locator
+  - Message Queue (MQ)
+  - CQRS
+  - Event sourcing
+  - E-R data modeling
+  - Entity-relationship diagram
+  - IDEF1X
+  - UML
+  - Work breakdown structure
+  - Budget estimation
+  - Distributed systems
+  - High-intensive computing
+  - Load balancing
+  - Gateways
+  - On-premises
+  - IaaS
+  - PaaS
+  - SaaS
+  - FaaS clouds
+  - Serverless
+  - Vendor lock-in
+  - Bus factor
+- Solution architecture
+  - A software requirements specification (SRS)
+  - Solution visions
+  - Solution capabilities
+  - System design
+  - Process modelling
+  - Data modelling
+  - Solution components
+  - Risk assessment
+  - Non Functional Requirements (NFR)
+  - Clouds
+  - BPMN
+  - Low-code
+  - No-code
+  - Metric
+  - Metric abuse
+  - ACID
+  - CAP theorem
+  - Single source of truth (SSOT)
+- Enterprise architecture
+  - Understanding business needs
+  - Enterprise strategy
+  - Integration with subsystems
+  - Enterprise vision
+  - Enterprise capabilities
+  - Project scope
+  - Enterprise service bus
+  - Service-oriented architecture
+  - Microservices
+  - Process choreography
+  - Service orchestration
+  - Data warehouse
+  - Business Intelligence
+  - OLAP
+  - OLTP
+  - Conways Law
+  - Quality assurance
+  - Engineering Hygiene

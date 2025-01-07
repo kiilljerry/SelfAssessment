@@ -5,13 +5,13 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming h
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming h
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming h
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -37,7 +37,7 @@
   - Private fields
   - Field declarations
   - Inheritance
-  - Parent class
+  - Parent class h
   - Polymorphism
   - Abstract class
   - Interface

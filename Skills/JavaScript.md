@@ -1,47 +1,25 @@
 ## JavaScript
 
 - Language
-<<<<<<< HEAD
-  - `Object` u
-  - `Function` u
-  - `Boolean` u
-  - `Number` u
-  - `BigInt` u
-  - `String` u
-  - `Symbol` u
-  - `Infinity` u
-  - `NaN` u
-  - `undefined` u
-  - `null` u
-  - `this` k
-  - `instanceof` k
-  - `...spread` k
-  - `...rest` k
-  - `typeof` u
-  - Destructuring k
-  - Generators h
-  - Iterators h
-=======
-  - `Object`u
-  - `Function`u
-  - `Boolean`u
-  - `Number`u
-  - `BigInt`u
-  - `String`u
-  - `Symbol`u
-  - `Infinity`u
-  - `NaN`u
-  - `undefined`u
-  - `null`u
-  - `this`k
-  - `instanceof`k
-  - `...spread`k
-  - `...rest`k
-  - `typeof`u
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🎓 known
+  - `instanceof`: 🎓 known
+  - `...spread`: 🎓 known
+  - `...rest`: 🎓 known
+  - `typeof`: 🖐️ used
   - Destructuring: 🎓 known
   - Generators: 👂 heard
   - Iterators: 👂 heard
->>>>>>> b721b6b9601a92532a56b5ba5e427c5ea03bef38
   - Async generator
   - Async iterator
   - Chaining
@@ -81,76 +59,40 @@
   - Private class fields
   - Private class methods
 - Statements
-<<<<<<< HEAD
-  - `if` u
-  - `while` u
-  - `do..while` u
-  - `for` u
-  - `for..in` u
-  - `for..of` u
-  - `for await` h
-  - `throw` k
-  - `break` u
-  - `continue` h
-  - `import` h
-  - `export` h
-  - `label`
-  - `try..catch` h
-  - `switch` u
-  - `class` h
-=======
   - `if`: 🖐️ used
   - `while`: 🖐️ used
   - `do..while`: 🖐️ used
   - `for`: 🖐️ used
-  - `for..in`u
-  - `for..of`u
-  - `for await`h
-  - `throw`k
-  - `break`u
-  - `continue`h
-  - `import`h
-  - `export`h
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`: 👂 heard
+  - `throw`: 🎓 known
+  - `break`: 🖐️ used
+  - `continue`: 👂 heard
+  - `import`: 👂 heard
+  - `export`: 👂 heard
   - `label`
-  - `try..catch`h
+  - `try..catch`: 👂 heard
   - `switch`: 🖐️ used
   - `class`: 👂 heard
->>>>>>> b721b6b9601a92532a56b5ba5e427c5ea03bef38
   - `extends`
   - `with`
   - `new`
 - Functions
-<<<<<<< HEAD
-  - Arrow function u
-  - Async function h
-  - Function declaration u
-  - Function expression u
-  - Default parameters u
-  - Functional object h
-  - `Function.prototype.call` h
-  - `Function.prototype.bind` h
-  - `Function.prototype.apply` h
-  - `return` u
-- Data structures
-  - `Array` u
-  - `Map` k
-  - `Set` k
-=======
   - Arrow function: 🖐️ used
   - Async function: 👂 heard
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
   - Functional object: 👂 heard
-  - `Function.prototype.call`h
-  - `Function.prototype.bind`h
-  - `Function.prototype.apply`h
-  - `return`u
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
+  - `Function.prototype.apply`: 👂 heard
+  - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
-  - `Map`k
-  - `Set`k
->>>>>>> b721b6b9601a92532a56b5ba5e427c5ea03bef38
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -159,24 +101,18 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date` u
-  - `Math` u
+  - `Date`: 🖐️ used
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error` k
+  - `Error`: 🎓 known
   - `Atomics`
   - `JSON`: 🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-<<<<<<< HEAD
-  - `Promise` h
-  - `console` u
-  - Timers u
-=======
-  - `Promise`h
-  - `console`u
+  - `Promise`: 👂 heard
+  - `console`: 🖐️ used
   - Timers: 🖐️ used
->>>>>>> b721b6b9601a92532a56b5ba5e427c5ea03bef38
 - Infrastructure
   - V8: 👂 heard
   - Node.js: 🖐️ used

@@ -3,8 +3,8 @@
 - Theory
   - Procedural programming
   - Imperative programming
-  - Structured programming h
-  - Non-structured programming h
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard
   - Functional programming: 👂 heard
   - Prototype-based programming
   - Object-oriented programming: 👂 heard

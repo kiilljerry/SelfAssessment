@@ -1,10 +1,9 @@
-# Architecture
 
 - Application structure
-  - Modularity k
+  - Modularity: 🎓 known
   - Components
-  - Directories k
-  - GRASP h
+  - Directories: 🎓 known
+  - GRASP: 👂 heard
   - SOLID
   - GoF patterns
   - CQS
@@ -18,8 +17,8 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability u
-  - Quality u
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
   - Availability
   - Flexibility
   - Law of Demeter (LoD)

@@ -17,9 +17,9 @@
   - `...spread`k
   - `...rest`k
   - `typeof`u
-  - Destructuring k
-  - Generators h
-  - Iterators h
+  - Destructuring: 🎓 known
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
   - Chaining
@@ -32,24 +32,24 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators u
-  - Logical operators u
-  - Logical Assignment u
-  - Bitwise operators h
-  - Ternary operator h
-  - `void` h
-  - `yield` h
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 👂 heard
+  - `void`: 👂 heard
+  - `yield`: 👂 heard
   - `await`
   - Template literal
   - Strict mode
   - Hoisting
-  - `delete` u
+  - `delete`: 🖐️ used
   - `in`
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt` u
-  - `Number.parseFloat` u
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,10 +59,10 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` u
-  - `for` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
   - `for..in`u
   - `for..of`u
   - `for await`h
@@ -73,24 +73,24 @@
   - `export`h
   - `label`
   - `try..catch`h
-  - `switch` u
-  - `class` h
+  - `switch`: 🖐️ used
+  - `class`: 👂 heard
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function u
-  - Async function h
-  - Function declaration u
-  - Function expression u
-  - Default parameters u
-  - Functional object h
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object: 👂 heard
   - `Function.prototype.call`h
   - `Function.prototype.bind`h
   - `Function.prototype.apply`h
   - `return`u
 - Data structures
-  - `Array` u
+  - `Array`: 🖐️ used
   - `Map`k
   - `Set`k
   - `WeakMap`
@@ -106,17 +106,17 @@
   - `Reflect`
   - `Error`k
   - `Atomics`
-  - `JSON` k
+  - `JSON`: 🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`h
   - `console`u
-  - Timers u
+  - Timers: 🖐️ used
 - Infrastructure
-  - V8 h
-  - Node.js u
-  - npm u
-  - prettier u
-  - MDN u
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39

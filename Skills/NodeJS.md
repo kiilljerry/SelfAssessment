@@ -18,7 +18,7 @@
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`u
-  - Files `package.json`, `package-lock.json` k
+  - Files `package.json`, `package-lock.json`: 🎓 known
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -65,10 +65,10 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API h
+  - Fetch API: 👂 heard
   - IncomingMessage
-  - HTTP(S) k
-  - TCP/SSL h
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 👂 heard
   - UDP
   - TLS
   - Websocket

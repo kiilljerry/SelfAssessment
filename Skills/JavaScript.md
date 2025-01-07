@@ -1,6 +1,7 @@
 ## JavaScript
 
 - Language
+<<<<<<< HEAD
   - `Object` u
   - `Function` u
   - `Boolean` u
@@ -20,6 +21,27 @@
   - Destructuring k
   - Generators h
   - Iterators h
+=======
+  - `Object`u
+  - `Function`u
+  - `Boolean`u
+  - `Number`u
+  - `BigInt`u
+  - `String`u
+  - `Symbol`u
+  - `Infinity`u
+  - `NaN`u
+  - `undefined`u
+  - `null`u
+  - `this`k
+  - `instanceof`k
+  - `...spread`k
+  - `...rest`k
+  - `typeof`u
+  - Destructuring: 🎓 known
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
+>>>>>>> b721b6b9601a92532a56b5ba5e427c5ea03bef38
   - Async generator
   - Async iterator
   - Chaining
@@ -32,24 +54,24 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators u
-  - Logical operators u
-  - Logical Assignment u
-  - Bitwise operators h
-  - Ternary operator h
-  - `void` h
-  - `yield` h
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 👂 heard
+  - `void`: 👂 heard
+  - `yield`: 👂 heard
   - `await`
   - Template literal
   - Strict mode
   - Hoisting
-  - `delete` u
+  - `delete`: 🖐️ used
   - `in`
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt` u
-  - `Number.parseFloat` u
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,6 +81,7 @@
   - Private class fields
   - Private class methods
 - Statements
+<<<<<<< HEAD
   - `if` u
   - `while` u
   - `do..while` u
@@ -75,10 +98,29 @@
   - `try..catch` h
   - `switch` u
   - `class` h
+=======
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`u
+  - `for..of`u
+  - `for await`h
+  - `throw`k
+  - `break`u
+  - `continue`h
+  - `import`h
+  - `export`h
+  - `label`
+  - `try..catch`h
+  - `switch`: 🖐️ used
+  - `class`: 👂 heard
+>>>>>>> b721b6b9601a92532a56b5ba5e427c5ea03bef38
   - `extends`
   - `with`
   - `new`
 - Functions
+<<<<<<< HEAD
   - Arrow function u
   - Async function h
   - Function declaration u
@@ -93,6 +135,22 @@
   - `Array` u
   - `Map` k
   - `Set` k
+=======
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object: 👂 heard
+  - `Function.prototype.call`h
+  - `Function.prototype.bind`h
+  - `Function.prototype.apply`h
+  - `return`u
+- Data structures
+  - `Array`: 🖐️ used
+  - `Map`k
+  - `Set`k
+>>>>>>> b721b6b9601a92532a56b5ba5e427c5ea03bef38
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -106,17 +164,23 @@
   - `Reflect`
   - `Error` k
   - `Atomics`
-  - `JSON` k
+  - `JSON`: 🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
+<<<<<<< HEAD
   - `Promise` h
   - `console` u
   - Timers u
+=======
+  - `Promise`h
+  - `console`u
+  - Timers: 🖐️ used
+>>>>>>> b721b6b9601a92532a56b5ba5e427c5ea03bef38
 - Infrastructure
-  - V8 h
-  - Node.js u
-  - npm u
-  - prettier u
-  - MDN u
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39

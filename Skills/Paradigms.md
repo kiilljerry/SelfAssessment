@@ -5,13 +5,13 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming h
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming: 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming h
+  - Asynchronous programming: 👂 heard
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -31,13 +31,13 @@
   - Operator `new`
   - Static method
   - Method
-  - Async method h
+  - Async method: 👂 heard
   - Getters, Setters
   - Public fields
   - Private fields
   - Field declarations
   - Inheritance
-  - Parent class h
+  - Parent class: 👂 heard
   - Polymorphism
   - Abstract class
   - Interface
@@ -71,7 +71,7 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy h
+  - Proxy: 👂 heard
   - Chain of Responsibility
   - Command
   - Iterator

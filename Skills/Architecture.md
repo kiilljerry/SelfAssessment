@@ -1,4 +1,3 @@
-
 - Application structure
   - Modularity: 🎓 known
   - Components

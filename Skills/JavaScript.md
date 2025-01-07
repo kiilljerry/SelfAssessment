@@ -1,41 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`: 🖐️ used
-  - `Function`: 🖐️ used
-  - `Boolean`: 🖐️ used
-  - `Number`: 🖐️ used
-  - `BigInt`: 🖐️ used
-  - `String`: 🖐️ used
-  - `Symbol`: 🖐️ used
-  - `Infinity`: 🖐️ used
-  - `NaN`: 🖐️ used
-  - `undefined`: 🖐️ used
-  - `null`: 🖐️ used
-  - `this`: 🎓 known
-  - `instanceof`: 🎓 known
-  - `...spread`: 🎓 known
-  - `...rest`: 🎓 known
-  - `typeof`: 🖐️ used
-  - Destructuring: 🎓 known
-  - Generators: 👂 heard
-  - Iterators: 👂 heard
-  - `Object`u
-  - `Function`u
-  - `Boolean`u
-  - `Number`u
-  - `BigInt`u
-  - `String`u
-  - `Symbol`u
-  - `Infinity`u
-  - `NaN`u
-  - `undefined`u
-  - `null`u
-  - `this`k
-  - `instanceof`k
-  - `...spread`k
-  - `...rest`k
-  - `typeof`u
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
+  - `BigInt` u
+  - `String` u
+  - `Symbol` u
+  - `Infinity` u
+  - `NaN` u
+  - `undefined` u
+  - `null` u
+  - `this` k
+  - `instanceof` k
+  - `...spread` k
+  - `...rest` k
+  - `typeof` u
+  - Destructuring k
+  - Generators h
+  - Iterators h
   - Async generator
   - Async iterator
   - Chaining
@@ -75,56 +59,40 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`: 🖐️ used
-  - `while`: 🖐️ used
-  - `do..while`: 🖐️ used
-  - `for`: 🖐️ used
-  - `for..in`: 🖐️ used
-  - `for..of`: 🖐️ used
-  - `for await`: 👂 heard
-  - `throw`: 🎓 known
-  - `break`: 🖐️ used
-  - `continue`: 👂 heard
-  - `import`: 👂 heard
-  - `export`: 👂 heard
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` u
+  - `for..of` u
+  - `for await` h
+  - `throw` k
+  - `break` u
+  - `continue` h
+  - `import` h
+  - `export` h
   - `label`
-  - `try..catch`: 👂 heard
-  - `switch`: 🖐️ used
-  - `class`: 👂 heard
-  - `for..in`u
-  - `for..of`u
-  - `for await`h
-  - `throw`k
-  - `break`u
-  - `continue`h
-  - `import`h
-  - `export`h
-  - `try..catch`h
+  - `try..catch` h
+  - `switch` u
+  - `class` h
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function: 🖐️ used
-  - Async function: 👂 heard
-  - Function declaration: 🖐️ used
-  - Function expression: 🖐️ used
-  - Default parameters: 🖐️ used
-  - Functional object: 👂 heard
-  - `Function.prototype.call`: 👂 heard
-  - `Function.prototype.bind`: 👂 heard
-  - `Function.prototype.apply`: 👂 heard
-  - `return`: 🖐️ used
+  - Arrow function u
+  - Async function h
+  - Function declaration u
+  - Function expression u
+  - Default parameters u
+  - Functional object h
+  - `Function.prototype.call` h
+  - `Function.prototype.bind` h
+  - `Function.prototype.apply` h
+  - `return` u
 - Data structures
-  - `Array`: 🖐️ used
-  - `Map`: 🎓 known
-  - `Set`: 🎓 known
-  - `Function.prototype.call`h
-  - `Function.prototype.bind`h
-  - `Function.prototype.apply`h
-  - `return`u
-- Data structures
-  - `Map`k
-  - `Set`k
+  - `Array` u
+  - `Map` k
+  - `Set` k
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -133,20 +101,18 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`: 🖐️ used
-  - `Math`: 🖐️ used
+  - `Date` u
+  - `Math` u
   - `Reflect`
-  - `Error`: 🎓 known
+  - `Error` k
   - `Atomics`
   - `JSON`: 🎓 known
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`: 👂 heard
-  - `console`: 🖐️ used
-  - Timers: 🖐️ used
-  - `Promise`h
-  - `console`u
+  - `Promise` h
+  - `console` u
+  - Timers u
 - Infrastructure
   - V8: 👂 heard
   - Node.js: 🖐️ used

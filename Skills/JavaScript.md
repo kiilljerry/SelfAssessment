@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object`u
+  - `Function`u
+  - `Boolean`u
+  - `Number`u
   - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `String`u
+  - `Symbol`u
+  - `Infinity`u
+  - `NaN`u
+  - `undefined`u
+  - `null`u
   - `this`
   - `instanceof`
   - `...spread`
@@ -32,9 +32,9 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
+  - Equality operators u
+  - Logical operators u
+  - Logical Assignment u
   - Bitwise operators
   - Ternary operator
   - `void`
@@ -59,8 +59,8 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
+  - `if` u
+  - `while` u
   - `do..while`
   - `for`
   - `for..in`
@@ -79,18 +79,18 @@
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function u
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Function declaration u
+  - Function expression u
+  - Default parameters u
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array`h
   - `Map`
   - `Set`
   - `WeakMap`
@@ -111,11 +111,11 @@
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console`u
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js u
   - npm
   - prettier
   - MDN

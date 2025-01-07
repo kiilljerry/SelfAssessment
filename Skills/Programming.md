@@ -5,25 +5,25 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
+  - Syntax u
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm k
   - Programming paradigm
-  - Programming language
+  - Programming language u
   - Contract
   - Module
   - Library
   - Package
   - Component
   - Framework
-  - Platform
+  - Platform h
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
@@ -34,13 +34,13 @@
 - Syntax and concepts
   - Value
   - Identifier
-  - Variable
-  - Constant
+  - Variable u
+  - Constant u
   - Scalar
   - Literal
-  - Expression
+  - Expression k
   - Heap
-  - Function
+  - Function u
   - Procedure
   - Method
   - Class
@@ -50,23 +50,23 @@
   - Flag
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Conditions u
+  - Loops u
+  - Assignment u
   - Regular expression
-  - Interface
+  - Interface h
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case u
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types u
   - Reference types
   - Type systems
   - Strong typing
@@ -81,13 +81,13 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature u
+  - Argument u
+  - Parameter u
   - Pure function
-  - Lambda expression
+  - Lambda expression u
   - Side effects
-  - Closure
+  - Closure h
   - Partial application
   - Currying
   - Higher order
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
@@ -128,17 +128,17 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON k
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS h
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 h
+  - IPv6 h
   - NAT
-  - URL
+  - URL u
   - URN
   - URI
 - Process and tools
@@ -153,19 +153,19 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine h
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger h
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git h
+  - Github h
   - Docker
   - Kubernetes
   - GCC
@@ -213,16 +213,16 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - File system u
+  - Linux k
+  - Unix u
   - BSD
-  - MacOS
-  - Windows
+  - MacOS u
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF

@@ -31,7 +31,7 @@
   - Operator `new`
   - Static method
   - Method
-  - Async method
+  - Async method h
   - Getters, Setters
   - Public fields
   - Private fields
@@ -71,7 +71,7 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy h
   - Chain of Responsibility
   - Command
   - Iterator

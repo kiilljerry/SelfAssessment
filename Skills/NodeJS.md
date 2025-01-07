@@ -65,10 +65,10 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API h
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S) k
+  - TCP/SSL h
   - UDP
   - TLS
   - Websocket
